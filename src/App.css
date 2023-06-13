@@ -11,7 +11,7 @@ body {
 
 .app {
   max-width: 600px;
-  margin: 0 auto 600px;
+  margin: 0 auto auto;
   background-color: #efefef;
   padding: 20px 30px;
   border-radius: 10px;
