@@ -48,28 +48,15 @@ Before you start, you will need the following tools installed on your machine:
 ### Steps
 
 1. Clone this repository using Git:
-git clone https://github.com/glauberbandeira/React-Todo.git
-
-markdown
-Copy code
+```git clone https://github.com/glauberbandeira/React-Todo.git
 
 2. Access the project folder:
-cd todo
-
-markdown
-Copy code
+```cd todo
 
 3. Install the project dependencies:
-npm install
-
-markdown
-Copy code
-
+```npm install
 4. Run the application:
-npm start
-
-less
-Copy code
+```npm start
 
 Now, the application will be available locally at `http://localhost:3000`.
 
