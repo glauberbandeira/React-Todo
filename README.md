@@ -1,6 +1,6 @@
 # Todo - Task List Application
 
-![Projeto Todo](https://github.com/usuario/projeto/blob/main/images/logo.png)
+![Projeto Todo](https://github.com/glauberbandeira/React-Todo/blob/main/img.png)
 
 
 Todo is a simple yet robust Task List project that allows users to manage their day-to-day tasks. This project was built using React and offers an intuitive user interface, in addition to useful features such as task inclusion and exclusion, marking tasks as complete, task categorization, search functionality, and multi-platform support.
@@ -48,7 +48,7 @@ Before you start, you will need the following tools installed on your machine:
 ### Steps
 
 1. Clone this repository using Git:
-git clone https://github.com/<your_username>/todo.git
+git clone https://github.com/glauberbandeira/React-Todo.git
 
 markdown
 Copy code
@@ -76,6 +76,3 @@ Now, the application will be available locally at `http://localhost:3000`.
 ## Contribution
 
 Feel free to contribute to Todo. Create a fork of the project, make your changes, and submit a pull request.
-
-
-
